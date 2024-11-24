@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning: Artificial Intelligence<br>✨I’m looking to collaborate on: AI/ML/DL<br>💬 Ask me about: AI/ML/DL/DA/DS<br>📫 How to reach me: emansyed2212@gmail.com</p>
+<p align="left">📚 I'm currently learning: Artificial Intelligence<br>✨I’m looking to collaborate on: AI/ML/DL<br>💬 Ask me about: AI/ML/DL/DA/DS projects<br>📫 How to reach me: emansyed2212@gmail.com</p>
 
 ###
 
